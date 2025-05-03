@@ -13,7 +13,7 @@ function App() {
       
        <header>
         <NavBar></NavBar>
-        <DaisyNav></DaisyNav>
+        {/* <DaisyNav></DaisyNav> */}
            <h1 className='text-3xl font-bold text-center mt-4 '>Md.Shajalal</h1>
        </header>
        <main>
