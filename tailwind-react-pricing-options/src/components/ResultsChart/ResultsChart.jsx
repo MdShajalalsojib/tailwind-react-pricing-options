@@ -54,9 +54,9 @@ const resultData = [
     {
       "id": 8,
       "name": "sojib",
-      "physics": 60,
-      "chemistry": 58,
-      "math": 64
+      "physics": 72,
+      "chemistry": 82,
+      "math": 85
     },
     {
       "id": 9,
