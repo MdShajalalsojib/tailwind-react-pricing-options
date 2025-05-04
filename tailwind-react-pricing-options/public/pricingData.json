@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "name": "Basic Plan",
+      "price": 30,
+      "billing": "month",
+      "description": "Essential access to gym facilities — perfect for getting started.",
+      "features": [
+        "Access to all gym equipment",
+        "Locker room & showers",
+        "Open 6 AM – 10 PM",
+        "1 fitness assessment",
+        "Free Wi-Fi",
+        "Mobile app workout tracking",
+        "No long-term contract"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Plus Plan",
+      "price": 50,
+      "billing": "month",
+      "description": "More flexibility and classes for regular fitness-goers.",
+      "features": [
+        "24/7 gym access",
+        "8 group classes/month",
+        "Sauna & steam room access",
+        "2 guest passes/month",
+        "Personal training discounts",
+        "Nutrition tips & plans",
+        "Class booking via app",
+        "Access to weekend workshops"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Ultimate Plan",
+      "price": 80,
+      "billing": "month",
+      "description": "Full access, coaching, and premium perks for dedicated members.",
+      "features": [
+        "Unlimited group classes",
+        "Weekly personal training",
+        "Custom nutrition & workout plans",
+        "VIP lounge access",
+        "Towel & locker service",
+        "Massage therapy discounts",
+        "Priority class booking"
+         
+      ]
+    }
+  ]
+  
